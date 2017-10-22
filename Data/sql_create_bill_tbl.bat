@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS bill_tbl ( 
+  bill_id                VARBINARY(19)  NOT NULL PRIMARY KEY, 
+  session_year           VARBINARY(8)   NOT NULL, 
+  session_num            VARBINARY(2)   NOT NULL, 
+  measure_type           VARBINARY(4)   NOT NULL, 
+  measure_num            VARBINARY(4)   NOT NULL, 
+  measure_state          VARBINARY(40)  NOT NULL, 
+  chapter_year           VARBINARY(4)   NULL, 
+  chapter_type           VARBINARY(10)  NULL, 
+  chapter_session_num    VARBINARY(2)   NULL, 
+  chapter_num            VARBINARY(10)  NULL, 
+  latest_bill_version_id VARBINARY(30)  NULL, 
+  active_flg             VARBINARY(1)   NULL, 
+  trans_uid              VARBINARY(30)  NULL, 
+  trans_update           VARBINARY(20)  NULL, 
+  current_location       VARBINARY(200) NULL, 
+  current_secondary_loc  VARBINARY(60)  NULL, 
+  current_house          VARBINARY(60)  NULL, 
+  current_status         VARBINARY(60)  NULL, 
+  days_31st_in_print     VARBINARY(20)  NULL  
+  );

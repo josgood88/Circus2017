@@ -1,0 +1,2 @@
+Finish BR verbose mode.  Right now does nothing.
+When generating a new report, BR reverses the order of </p></table> ending the table following Last Action.

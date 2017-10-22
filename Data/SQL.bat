@@ -1,0 +1,1 @@
+D:\3rdParty\SQLite\SQLiteStudio\sqlitestudiocli.exe %1

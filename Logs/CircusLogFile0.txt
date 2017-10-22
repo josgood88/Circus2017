@@ -1,0 +1,9 @@
+2017-Aug-01 05:55:10.499054 Starting Circus
+2017-Aug-01 05:55:10.507042 Initializing database
+2017-Aug-01 05:55:10.509043 Ensuring database ../Data/capublic.db exists
+2017-Aug-01 05:55:10.513046 Database initialization run time: 00:00:00.005003
+2017-Aug-01 05:55:10.517049 Processing AB 501 only.
+2017-Aug-01 05:55:10.533062 Starting Rankings
+2017-Aug-01 05:55:29.582600 AB 501 Negative = 2999, Positive = 0
+2017-Aug-01 05:55:29.586591 Ranking Run Time: 00:00:19.052528
+2017-Aug-01 05:55:29.591819 Circus Run Time: 00:00:19.092765

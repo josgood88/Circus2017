@@ -1,0 +1,11 @@
+2017-Oct-08 08:32:56.172461 Starting BR
+2017-Oct-08 08:32:56.172461 Initializing database
+2017-Oct-08 08:32:56.172461 Ensuring database ../Data/capublic.db exists
+2017-Oct-08 08:32:56.203712 Database initialization run time: 00:00:00.031251
+2017-Oct-08 08:32:56.641256 "AB1134.html" has changed.
+2017-Oct-08 08:32:57.359971 "AB1315.html" has changed.
+2017-Oct-08 08:32:58.078739 "AB1361.html" has changed.
+2017-Oct-08 08:32:59.344363 "AB462.html" has changed.
+2017-Oct-08 08:33:00.094369 "AB850.html" has changed.
+2017-Oct-08 08:33:01.156879 "SB241.html" has changed.
+2017-Oct-08 08:33:02.594394 BR Run Time: 00:00:06.421933

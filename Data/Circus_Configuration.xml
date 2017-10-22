@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Circus>
+   <version>1</version>
+
+   <!-- Leave empty for current year. Specify as 17-18 or similar -->
+   <biennium></biennium>
+
+   <leg_site>
+      <user>anonymous</user>
+      <pwd>joe.osgood@comcast.net</pwd>
+      <site>192.234.213.1</site>
+   </leg_site>
+
+   <keyword_files>
+      <negative>D:/CCHR/Projects/Circus/Common/RegexScore - Negative.xml</negative>
+      <positive>D:/CCHR/Projects/Circus/Common/RegexScore - Positive.xml</positive>
+   </keyword_files>
+
+   <local_data>
+      <bills_folder>D:\CCHR\2017-2018\LatestDownload\Bills</bills_folder>
+   </local_data>
+
+</Circus>

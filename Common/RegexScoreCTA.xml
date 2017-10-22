@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Regex_Score>
+  <Pair>
+    <Regex>[Ee]ducation</Regex>
+    <Score>10</Score>
+  </Pair>
+  <Pair>
+     <Regex>[Cc]hild</Regex>
+     <Score>7</Score>
+  </Pair>
+  <Pair>
+     <Regex>teach</Regex>
+     <Score>5</Score>
+  </Pair>
+  <Pair>
+     <Regex>juven</Regex>
+     <Score>2</Score>
+  </Pair>
+</Regex_Score>

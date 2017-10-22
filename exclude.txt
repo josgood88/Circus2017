@@ -1,0 +1,17 @@
+Debug\*.*
+ipch\*.*
+*.cache
+*.exe
+*.filters
+*.idb
+*.lastbuildstate
+*.log
+*.manifest
+*.obj
+*.pch
+*.pdb
+*.res
+*.sdf
+*.tlog
+*.user
+*.zip

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Control>
+  <Inclusion>adolescent</Inclusion>
+  <Inclusion>disorder</Inclusion>
+  <Inclusion>eval</Inclusion>
+  <Inclusion>health</Inclusion>
+  <Inclusion>hygene</Inclusion>
+  <Inclusion>psych</Inclusion>
+  <Inclusion>screen</Inclusion>
+  <Inclusion>autis</Inclusion>
+  <Inclusion>behav</Inclusion>
+  <Inclusion>care</Inclusion>
+  <Inclusion>child</Inclusion>
+  <Inclusion>clin</Inclusion>
+  <Inclusion>counselor</Inclusion>
+  <Inclusion>delinq</Inclusion>
+  <Inclusion>\sECT\s</Inclusion>
+  <Inclusion>diagnost</Inclusion>
+  <Inclusion>electro</Inclusion>
+  <Inclusion>emot</Inclusion>
+  <Inclusion>epsdt</Inclusion>
+  <Inclusion>medi-cal</Inclusion>
+  <Inclusion>mental</Inclusion>
+  <Inclusion>mhp</Inclusion>
+  <Inclusion>patient</Inclusion>
+  <Inclusion>\sprofessional\s</Inclusion>
+  <Inclusion>protect</Inclusion>
+  <Inclusion>sex</Inclusion>
+  <Inclusion>treat</Inclusion>
+  <Inclusion>alzh</Inclusion>
+  <Inclusion>counsel</Inclusion>
+  <Inclusion>\sDSM\s</Inclusion>
+
+  <!-- Grouped Together -->
+  <!-- <Exclusion>RotPimOps:E1007</Exclusion>       -->
+  <!-- <Exclusion>RotPimOps:E1010</Exclusion>       -->
+
+  <!-- Grouped Together -->
+  <!-- <Exclusion>HwInterruptThrd:E1024</Exclusion> -->
+  <!-- <Exclusion>RotPimOps:E1039</Exclusion>       -->
+
+  <!-- <Exclusion>Attempt 1 of 2</Exclusion>        -->
+  <!-- <Exclusion>Attempt 2 of 2</Exclusion>        -->
+  <!--<Exclusion>F1001</Exclusion>                  -->
+  <!-- <Exclusion>ChangeState</Exclusion>           -->
+  <!--<Exclusion>CMmApiEx:E1009</Exclusion>         -->
+  <!--<Exclusion>CMmApiEx:E1011</Exclusion>         -->
+
+  <!-- <Exclusion>LOGIC ERROR</Exclusion>           -->
+  <!-- <Exclusion>CSysObserver</Exclusion>          -->
+  <!-- <Exclusion>glCallList</Exclusion>            -->
+  <!-- <Exclusion>OpenGL</Exclusion>                -->
+  <!-- <Exclusion>DrawString</Exclusion>            -->
+  <!-- <Exclusion>DeepFreeze</Exclusion>            -->
+</Control>

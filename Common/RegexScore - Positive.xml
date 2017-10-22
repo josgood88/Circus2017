@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Regex_Score>
+   <Pair>
+     <Key>priest</Key>
+     <Regex>^priest</Regex>
+     <Score>10</Score>
+   </Pair>
+   <Pair>
+      <Key>penitent</Key>
+      <Regex>^penitent</Regex>
+      <Score>10</Score>
+   </Pair>
+   <Pair>
+      <Key>religious</Key>
+      <Regex>^religious</Regex>
+      <Score>10</Score>
+   </Pair>
+   <Pair>
+      <Key>exemption</Key>
+      <Regex>^exemption</Regex>
+      <Score>1</Score>
+   </Pair>
+   <Pair>
+      <Key>constitution</Key>
+      <Regex>^constitution$</Regex>
+      <Score>10</Score>
+   </Pair>
+   <Pair>
+      <Key>convention</Key>
+      <Regex>^convention</Regex>
+      <Score>1</Score>
+   </Pair>
+
+   <Phrase>
+      <Key>prient-penitent</Key>
+      <Regex>prient/s?-?/s?penitent</Regex>
+      <Score>20</Score>
+   </Phrase>
+   <Phrase>
+      <Key>religious exemption</Key>
+      <Regex>religious\s+exemption</Regex>
+      <Score>20</Score>
+   </Phrase>
+   <Phrase>
+      <Key>con con</Key>
+      <Regex>con\s+con</Regex>
+      <Score>10000</Score>
+   </Phrase>
+   <Phrase>
+      <Key>Consitituional Convention</Key>
+      <Regex>consitituional/s+convention</Regex>
+      <Score>10000</Score>
+   </Phrase>
+   <Phrase>
+      <Key>civil rights</Key>
+      <Regex>civil\s+rights</Regex>
+      <Score>10000</Score>
+   </Phrase>
+   <Phrase>
+      <Key>human rights</Key>
+      <Regex>human\s+rights</Regex>
+      <Score>10000</Score>
+   </Phrase>
+</Regex_Score>
